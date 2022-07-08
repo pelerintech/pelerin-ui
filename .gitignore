@@ -1,0 +1,29 @@
+# OSX
+.DS_Store
+.DS_STORE
+._.DS_STORE
+**/.DS_STORE
+**/**/.DS_STORE
+
+# Thumbnails
+._*
+
+# node.js
+node_modules/
+npm-debug.log
+*/node_modules
+
+*/types
+*/**/types
+
+*.log
+*/**/*.log
+storybook-dist
+
+.npmrc
+.env
+
+.jest-test-results.json
+
+*/**/dist
+*/**/build
