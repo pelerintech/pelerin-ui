@@ -1,5 +1,5 @@
 {
-  "name": "@pelerin-ui/text",
+  "name": "@pelerin.tech/text",
   "version": "0.1.0",
   "description": "Text component",
   "main": "dist/index.js",

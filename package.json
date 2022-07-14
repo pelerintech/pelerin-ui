@@ -1,5 +1,5 @@
 {
-  "name": "@pelerin-ui",
+  "name": "pelerin-ui",
   "version": "0.1.0",
   "description": "Pelerin UI - React components library ",
   "main": "index.js",
