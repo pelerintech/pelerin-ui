@@ -36,6 +36,8 @@ export const Text = ({
 }: TextProps): JSX.Element => {
   const testID =
     Platform.OS === 'android' ? { accessibilityLabel: id } : { testID: id }
+
+  // we might want to do something about the gradient, maybe change the deps
   if (gradient) {
     return (
       <MaskedView
