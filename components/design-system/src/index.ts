@@ -1,7 +1,5 @@
-import { Text } from '@pelerin.tech/text'
-import { View } from '@pelerin.tech/view'
+import { Text as UIText } from '@pelerin.tech/text'
+import { View as UIView } from '@pelerin.tech/view'
 
-export default {
-  Text,
-  View,
-}
+export const Text = UIText
+export const View = UIView
