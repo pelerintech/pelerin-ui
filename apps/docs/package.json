@@ -10,8 +10,8 @@
     "build-storybook": "build-storybook"
   },
   "dependencies": {
-    "@pelerin-ui/text": "^0.1.0",
-    "@pelerin-ui/view": "^0.1.0",
+    "@pelerin.tech/text": "^0.1.0",
+    "@pelerin.tech/view": "^0.1.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
     "sb": "^6.5.9"

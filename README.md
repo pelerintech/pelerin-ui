@@ -26,6 +26,11 @@ npm run <command> -w @pelerin-ui/<component>
 npm run <command> -ws
 ```
 
+## Publish to npm
+```
+npm publish --workspaces --access public
+```
+
 ## Maintainers
 | Name           | E-mail                                                                   |
 |:---------------|:-------------------------------------------------------------------------|
