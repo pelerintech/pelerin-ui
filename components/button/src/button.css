@@ -1,0 +1,24 @@
+:root {
+    --pelerin: #6d6a7a;
+    --pelerin-dark: #e0d1b7;
+    --warning: #eb3f27;
+    --success: #75fa83;
+    --pelerin-secondary: #e0d1b7;
+    --pelerin-secondary-dark: #d7c49e;
+}
+
+.btn {
+    border-radius: 10px;
+    cursor: pointer;
+    transition: transform 0.3s ease;
+}
+
+.btn-hover {
+    transform: translate3d(2px);
+}
+
+.btn-pelerin-solid {
+    background-color: var(--pelerin);
+    color: var(--pelerin-secondary);
+    border: none
+}
